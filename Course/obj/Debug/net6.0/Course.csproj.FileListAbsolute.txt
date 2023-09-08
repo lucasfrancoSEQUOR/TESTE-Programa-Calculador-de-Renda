@@ -1,0 +1,14 @@
+C:\Users\francoluc\OneDrive - SNEF BRASIL\Documentos\Curso C#\Secao9\Projetct Calculate Income\Course\Course\bin\Debug\net6.0\Course.exe
+C:\Users\francoluc\OneDrive - SNEF BRASIL\Documentos\Curso C#\Secao9\Projetct Calculate Income\Course\Course\bin\Debug\net6.0\Course.deps.json
+C:\Users\francoluc\OneDrive - SNEF BRASIL\Documentos\Curso C#\Secao9\Projetct Calculate Income\Course\Course\bin\Debug\net6.0\Course.runtimeconfig.json
+C:\Users\francoluc\OneDrive - SNEF BRASIL\Documentos\Curso C#\Secao9\Projetct Calculate Income\Course\Course\bin\Debug\net6.0\Course.dll
+C:\Users\francoluc\OneDrive - SNEF BRASIL\Documentos\Curso C#\Secao9\Projetct Calculate Income\Course\Course\bin\Debug\net6.0\Course.pdb
+C:\Users\francoluc\OneDrive - SNEF BRASIL\Documentos\Curso C#\Secao9\Projetct Calculate Income\Course\Course\obj\Debug\net6.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\francoluc\OneDrive - SNEF BRASIL\Documentos\Curso C#\Secao9\Projetct Calculate Income\Course\Course\obj\Debug\net6.0\Course.AssemblyInfoInputs.cache
+C:\Users\francoluc\OneDrive - SNEF BRASIL\Documentos\Curso C#\Secao9\Projetct Calculate Income\Course\Course\obj\Debug\net6.0\Course.AssemblyInfo.cs
+C:\Users\francoluc\OneDrive - SNEF BRASIL\Documentos\Curso C#\Secao9\Projetct Calculate Income\Course\Course\obj\Debug\net6.0\Course.csproj.CoreCompileInputs.cache
+C:\Users\francoluc\OneDrive - SNEF BRASIL\Documentos\Curso C#\Secao9\Projetct Calculate Income\Course\Course\obj\Debug\net6.0\Course.dll
+C:\Users\francoluc\OneDrive - SNEF BRASIL\Documentos\Curso C#\Secao9\Projetct Calculate Income\Course\Course\obj\Debug\net6.0\refint\Course.dll
+C:\Users\francoluc\OneDrive - SNEF BRASIL\Documentos\Curso C#\Secao9\Projetct Calculate Income\Course\Course\obj\Debug\net6.0\Course.pdb
+C:\Users\francoluc\OneDrive - SNEF BRASIL\Documentos\Curso C#\Secao9\Projetct Calculate Income\Course\Course\obj\Debug\net6.0\Course.genruntimeconfig.cache
+C:\Users\francoluc\OneDrive - SNEF BRASIL\Documentos\Curso C#\Secao9\Projetct Calculate Income\Course\Course\obj\Debug\net6.0\ref\Course.dll
